@@ -1,7 +1,7 @@
 $("#customerName").text("Subash Chander");
 $("#policyNumber").text("NJ01104193");
-$("#startDate").text("13-Aug-2020");
-$("#endDate").text("14-Aug-2021");
+$("#startDate").text("14-Aug-2020");
+$("#endDate").text("13-Aug-2021");
 
 
 $("#type").text("Two Wheeler");
